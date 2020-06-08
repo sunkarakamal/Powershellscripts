@@ -1,0 +1,1 @@
+﻿Start-Process -FilePath "C:\Program Files (x86)\Nagios\NCPA\uninstall.exe" -ArgumentList "/S","/v","/qn" -Wait
